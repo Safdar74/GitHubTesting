@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     }
 
 //    Any Body there
-    func ali(){
+    func ahmed(){
         
     }
 }
