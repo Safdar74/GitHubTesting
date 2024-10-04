@@ -15,6 +15,8 @@ class ViewController: UIViewController {
     }
 
 //    Any Body there
-
+    func ali(){
+        
+    }
 }
 
